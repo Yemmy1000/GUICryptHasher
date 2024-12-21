@@ -1,4 +1,5 @@
 "# GUICryptHasher" 
+![hasher_interface](https://github.com/user-attachments/assets/6ee56f61-bcb8-48f1-948a-e223609c7bd7)
 
 # The Project
 ================================================================================
